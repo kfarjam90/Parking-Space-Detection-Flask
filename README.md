@@ -87,7 +87,5 @@ The application will be available at `http://127.0.0.1:5000/`.
 - **Kaggle Notebook**: Interested in a Kaggle environment? Check out the notebook [here](https://www.kaggle.com/parhamfarjam).
 - **LinkedIn**: [Karim Farjam's Profile](https://www.linkedin.com/in/karim-farjam-a6b72549/)
 
-Feel free to submit issues, fork the repository, and send pull requests.
-
 ---
 
